@@ -1,0 +1,24 @@
+.black {
+  background:rgb(211,113,6);
+  height: 100px;
+  width: 100px;
+  border-collapse: collapse;
+  border: 0px solid white;
+}
+.white {
+  background: rgb(251,226,195);
+  height: 100px;
+  width: 100px;
+  border-collapse: collapse;
+  border: 0px solid white;
+}
+.the_border {
+  color:rgb(206, 168, 65);
+  border: 0px solid white;
+  border-collapse: collapse;
+  font-size: 2pc;
+  padding: 15px;
+}
+.shadow {
+  box-shadow: 0px 5px 5px 5px rgba(0,0,0,0.5);
+}
